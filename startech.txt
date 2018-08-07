@@ -28,7 +28,7 @@ o 15W of power to slow charge MacBook Pro / Thunderbolt 3 Dock /
 
 price: $201.50 (amazon prime - June 8, 2017)
 
-This may be the only working/puchasable Thunderbolt 3 dock out there.
+Think this is the only working/puchasable Thunderbolt 3 dock out there.
 
 
 Links
@@ -52,3 +52,17 @@ StarTech.com USB3DOCKH2DP Triple Display Docking Station -
 Docking Station - USB 3.0 Dock
 price: $165.21 (amazon prime - June 29, 2018)
 https://www.amazon.com/StarTech-com-USB3DOCKH2DP-Display-Docking-Station/dp/B012VKW900
+
+Triple-Monitor USB 3.0 Docking Station - 1x HDMI - 2x DisplayPort   <===
+Product ID: USB3DOCKH2DP
+o 1x HDMI and 2x DP or a dual-monitor setup
+o High resolution with up to 3840x2160p (4K) on one of the displays
+o Connect your USB devices with 5 x USB 3.0 ports
+o ports:
+  5x USB 3.0 ports
+  1x side-facing USB fast-charge port (USB Battery Charging Specification 1.2)
+  1x GbE port
+  Headset jack and separate 3.5 mm audio and mic ports
+o Warranty: 3-year StarTech.com warranty and free lifetime technical support. 
+price: $238.99 (startech.com - August 7, 2018)
+https://www.startech.com/Cards-Adapters/Laptop-docking-stations/triple-video-laptop-docking-station~USB3DOCKH2DP
