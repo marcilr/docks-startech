@@ -3,9 +3,14 @@ Created Wed Aug  8 09:54:44 AKDT 2018
 by Raymond E. Marcil <rmarcil@gci.com
 
 
+DK30CH2DPPD USB-C Triple Monitor
+Dock with Power Delivery
+
+
 StarTech.com USB C Dock, Compatible with Windows/macOS,
 Supports Triple 4K Ultra HD Monitors, 60W Power Delivery
 - Power and Charge Laptop and Peripherals (DK30CH2DPPD)
+
 
 make:          StarTech
 model:         DK30CH2DPPD
@@ -44,6 +49,13 @@ o Docking Stations: We offer a wide selection of universal docking stations
 
 Ports
 =====
+o 5x USB 3.0 Ports
+  (1x USB-C and 1x Fast-Charge)
+
+o 60W Power Delivery
+
+o Gigabit Ethernet Port
+
 From inspection of DK30CH2DPPD USB Dock image:
 
 side: 1x 3.5mm Mini-Jack Audio Port
