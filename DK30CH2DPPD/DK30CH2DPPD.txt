@@ -63,7 +63,8 @@ o Gigabit Ethernet Port
 From inspection of DK30CH2DPPD USB Dock image:
 
 side: 1x 3.5mm Mini-Jack Audio Port
-      1x USB 3.0 Type-A (Fast-Charge Port)
+      1x USB 3.0 Type-A (USB fast-charge port)
+
 
 back: 1x power switch
       1x DC Input
