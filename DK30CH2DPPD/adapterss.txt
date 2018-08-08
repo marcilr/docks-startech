@@ -1,0 +1,27 @@
+adapterss.txt
+Created Wed Aug  8 11:42:17 AKDT 2018
+by Raymond E. Marcil <rmarcil@gci.com>
+
+
+Adapters
+
+
+The StarTech DK30CH2DPPD has an HDMI  and 2 DisplayPort ports on 
+the back for triple displays.  Need adapters to get hooked up
+to 3x 24" displays.
+
+I like the looks of the CableMatters brand available off amazon.
+
+NOTE: Think I have the 3 cables already (nice):
+
+o Using 6' CableMatters DisplayPort to DVI cable for 
+  one of the 24" ASUS diplays.
+
+o Using CableMatters USBC to DVI adapter and 6' DVI cable
+  for 2nd 24" ASUS display.  Figure this could be used to 
+  connect the 24" Dell in triple display configuration.
+ 
+o Have another 6' CableMatters DisplayPort to DVI cable
+  in file cabinet.  Figure this could be used to connect
+  the 2nd 24" ASUS display in triple display configuration.
+
