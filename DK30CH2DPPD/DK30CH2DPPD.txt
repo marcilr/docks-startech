@@ -21,8 +21,8 @@ warranty:         3-year warranty and free lifetime technical support on
                   all docking stations
 weight:           13.6 ounces (0.85lb)
 shipping weight:  2.95 pounds
-voltage:          20v
-power:            120W power adapter
+voltage:          DC 20V IN (Power input) port
+power:            120W power adapter 
 price:            $211.24 (amazon prime - August 8, 2018)
 --www.amazon.com/
 
@@ -64,7 +64,10 @@ From inspection of DK30CH2DPPD USB Dock image:
 
 side: 1x 3.5mm Mini-Jack Audio Port
       1x USB 3.0 Type-A (USB fast-charge port)
-
+         This side facing USB 3.0 port can only fast-charge
+         connected devices that comply with USB Battery Charging
+         Specification Revision 1.2.
+         --user-guide.pdf, p. 7
 
 back: 1x power switch
       1x DC Input
@@ -146,6 +149,26 @@ Using a single cable, the USB-C docking station with Power Delivery
 (up to 60W) will power and charge your laptop, and power your peripherals
 with its 120W power adapter.  The DK30CH2DPPD is backed by a StarTech.com
 3-year warranty and free lifetime technical support.
+
+
+Drivers
+=======
+Depending on your operating system, the dock will automatically install
+some of the required drivers once connected to your host laptop.  To
+complete the full driver installation process:
+
+1. Download the latest drivers by visiting www.StarTech.com/DK30CH2DPPD
+   or www. StarTech.com/DK30CH2DPPDU and clicking the Support tab.
+
+2. Extract the contents of the compressed  le(s) that you downloaded.
+
+3. Double-click the appropriate driver for the version of Windows or
+   macOS that you’re running and follow the on-screen instructions
+   to complete the installation.
+
+Note: If you are prompted to restart your computer, do so to complete
+the installation.
+user-guide.pdf, p. 7
 
 
 Links
