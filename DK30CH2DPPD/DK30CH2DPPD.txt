@@ -2,5 +2,101 @@ DK30CH2DPPD.txt
 Created Wed Aug  8 09:54:44 AKDT 2018
 by Raymond E. Marcil <rmarcil@gci.com
 
-StarTech DK30CH2DPPD triple port dock
+
+StarTech.com USB C Dock, Compatible with Windows/macOS,
+Supports Triple 4K Ultra HD Monitors, 60W Power Delivery
+- Power and Charge Laptop and Peripherals (DK30CH2DPPD)
+
+make:          StarTech
+model:         DK30CH2DPPD
+style:         Triple Monitor - 2xDP/HDMI
+dimensions:    270mm (10.6") long x 82mm (3.2") wide x 34mm (1.3") high
+compatibility: Windows, macOS
+warranty:      3-year warranty and free lifetime technical support on
+               all docking stations
+price:         $211.24 (amazon prime - August 8, 2018)
+--www.amazon.com/
+
+In the box:
+o USB C Docking Station
+o USB-C Cable
+o Universal Power Adapter (NA/JP,ANZ)
+o Instruction Manual
+--www.amazon.com/
+
+The StarTech DK30CH2DPPD USB-C Dock is designed to expand the types
+of ports available for greater connectivity.  With 60W power delivery,
+this laptop dock can charge and power your laptop and power all your
+peripherals.  Maximize your productivity with three 4K Ultra HD monitors
+with this triple display docking station using the two DisplayPort ports
+and HDMI port.  Content in full 4K resolution can be displayed on each
+monitor.  Compatible with all PC laptops equipped with USB-C ports.
+
+o Founded in 1985, StarTech is a global manufacturer of over 3000 products,
+  with operations in 16 countries.  We offer unique and hard-to-find tech
+  products that make our customers' jobs easier.
+
+o Docking Stations: We offer a wide selection of universal docking stations
+  for PC and Mac laptops.  Our goal is to maximize the connectivity of
+  computing devices to improve workflow for our customers
+--www.amazon.com/
+
+
+Ports
+=====
+From inspection of DK30CH2DPPD USB Dock image:
+
+side: 1x 3.5mm Mini-Jack Audio Port
+      1x USB 3.0 Type-A (Fast-Charge Port)
+
+back: 1x power switch
+      1x DC Input
+      3x USB 3.0 Type-A Ports
+      1x USB 3.0 Type-C Port
+      1x USB 3.0 Type-C Host Port
+      1x RJ-45 Network Port
+      1x HDMI Port           <=== Likely just cable to hookup
+      2x DisplayPort Ports   <=== DisplayPort to hdmi adapter + cable
+                                  to hookup
+      3.5mm Mini-Jack Audio Port (has microphone and speaker 1/8" port)
+
+--www.amazon.com/
+
+Features
+========
+o CONNECT TO TRIPLE 4K MONITORS: This 4K USB C dock lets you connect
+  your USB-C equipped Windows laptop to a triple 4K monitors,
+  2x DisplayPort (DisplayLink) and 1x HDMI (DP Alt Mode).
+  You can connect to a single 5K monitor using two DisplayPort ports.
+
+o CREATE A POWERFUL WORKSTATION: The USB Type C dock lets you transform
+  your USB-C laptop into a triple video workstation with 5x USB 3.0 ports
+  Gigabit Ethernet port, and Power Delivery (60W) to power and charge,
+  all through a single USB-C cable.
+
+o CONNECT MORE DEVICES: The USB C port replicator lets you connect your
+  latest and legacy USB devices with 5x USB 3.0 ports (4x USB-A and 1x USB-C).
+  Fast-charge your smartphone.  The USB ports are backward compatible to
+  support your existing devices.
+
+o CONNECT TO USB-A: The dock also connects to USB 3.0 laptops with a USB-A
+  port, using a USB-C to A cable (such as USB315AC1M, sold separately) but
+  only dual display is supported and Power Delivery is not available through
+  USB-A.
+
+o INDUSTRY-LEADING SUPPORT: StarTech.com offers a 3-year warranty and
+  free lifetime technical support on all docking stations.  With over
+  3000 products supporting 200+ technologies and connectors globally,
+  StarTech.com makes hard-to-find easy.
+--www.amazon.com/
+
+
+
+Links
+=====
+StarTech.com USB C Dock, Compatible with Windows/macOS,
+Supports Triple 4K Ultra HD Monitors, 60W Power Delivery
+- Power and Charge Laptop and Peripherals (DK30CH2DPPD)
+price: $211.24 (amazon prime - August 8, 2018)
+https://www.amazon.com/StarTech-com-Compatible-Supports-Monitors-Delivery/dp/B073X4V5FF
 
