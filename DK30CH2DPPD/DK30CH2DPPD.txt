@@ -12,14 +12,18 @@ Supports Triple 4K Ultra HD Monitors, 60W Power Delivery
 - Power and Charge Laptop and Peripherals (DK30CH2DPPD)
 
 
-make:          StarTech
-model:         DK30CH2DPPD
-style:         Triple Monitor - 2xDP/HDMI
-dimensions:    270mm (10.6") long x 82mm (3.2") wide x 34mm (1.3") high
-compatibility: Windows, macOS
-warranty:      3-year warranty and free lifetime technical support on
-               all docking stations
-price:         $211.24 (amazon prime - August 8, 2018)
+make:             StarTech
+model:            DK30CH2DPPD
+style:            Triple Monitor - 2xDP/HDMI
+dimensions LxWxH: 270mm (10.6") x 82mm (3.2") x 34mm (1.3")
+compatibility:    Windows, macOS
+warranty:         3-year warranty and free lifetime technical support on
+                  all docking stations
+weight:           13.6 ounces (0.85lb)
+shipping weight:  2.95 pounds
+voltage:          20v
+power:            120W power adapter
+price:            $211.24 (amazon prime - August 8, 2018)
 --www.amazon.com/
 
 In the box:
@@ -102,6 +106,45 @@ o INDUSTRY-LEADING SUPPORT: StarTech.com offers a 3-year warranty and
   StarTech.com makes hard-to-find easy.
 --www.amazon.com/
 
+
+Product Description
+===================
+Size:Power Delivery  |  Style:Triple Monitor - 2xDP/HDMI
+
+This TAA compliant USB-C dock for Windows laptops takes productivity
+to a whole new level, with support for triple 4K monitors - a first
+in the market. The 4K USB-C Dock provides 60W charging power and
+5x USB 3.0 ports to connect your peripheral devices.  It’s ideal for
+Dell XPS or other USB-C enabled laptop.
+
+Enhance Productivity 
+--------------------
+The 4K USB-C Dock lets you create a three-monitor Ultra HD workstation.
+
+Connect: 
+- 2x 4K DisplayPort (DisplayLink) at 
+  4096 x 2160 resolution / 3840 x 2160 @ 60Hz and
+- 1x 4K HDMI (DP Alt Mode) 
+  at 4096 x 2160 resolution @ 24Hz / 3840 x 2160 @ 30Hz
+
+For high-resolution applications, the universal laptop docking station
+connects to a 5K display (5120 x 2880 resolution) at 60Hz, by connecting
+the two DisplayPort ports to a single 5K display.
+
+Powerful Connections
+--------------------
+This triple-monitor docking station lets you connect your peripherals
+to transform your laptop into a full-sized workstation.  It gives you
+five USB 3.0 ports (1x USB Type-C and 4x USB Type-A incl 1x Fast-Charge
+port), a Gigabit Ethernet port, headset jack and separate 3.5 mm audio
+and microphone ports.
+
+60W Power Delivery
+------------------
+Using a single cable, the USB-C docking station with Power Delivery
+(up to 60W) will power and charge your laptop, and power your peripherals
+with its 120W power adapter.  The DK30CH2DPPD is backed by a StarTech.com
+3-year warranty and free lifetime technical support.
 
 
 Links
